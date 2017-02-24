@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&lt;FIKA&gt;</title>
-    <link>http://www.fikawow.se/index.xml</link>
+    <link>https://www.fikawow.se/index.xml</link>
     <description>Recent content on &lt;FIKA&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <atom:link href="http://www.fikawow.se/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.fikawow.se/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
